@@ -1,3 +1,3 @@
-#!/usr/bin/env python
+#!/bin/Python3
 print("Hello World!")
 a = input()
